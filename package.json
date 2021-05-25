@@ -1,0 +1,20 @@
+{
+  "name": "11218-r-d-cross-account-eventbridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.912.0",
+    "dotenv-cli": "^4.0.0",
+    "serverless-dotenv-plugin": "^3.9.0",
+    "serverless-offline": "^7.0.0"
+  },
+  "dependencies": {
+    "farmhash": "^3.2.0"
+  }
+}
